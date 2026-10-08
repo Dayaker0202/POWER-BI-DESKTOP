@@ -1,0 +1,142 @@
+Here's a complete Excel learning roadmap for Data Analysts, organized from beginner to advanced:
+
+---
+
+**BEGINNER LEVEL — Excel Foundations**
+
+1. Excel Interface & Navigation
+2. Workbook, Worksheet & Cell basics
+3. Data entry & editing
+4. Cell formatting (number, date, text, currency)
+5. Basic arithmetic formulas (+, -, *, /)
+6. Cell references — absolute ($A$1), relative (A1), mixed ($A1)
+7. Paste Special (values, transpose, formats)
+8. Sorting & basic filtering
+9. Find & Replace
+10. Freeze panes & split views
+
+---
+
+**INTERMEDIATE LEVEL — Core Analyst Skills**
+
+**Formulas & Functions**
+11. SUM, AVERAGE, COUNT, COUNTA, COUNTBLANK
+12. MIN, MAX, LARGE, SMALL
+13. IF, nested IF, IFS
+14. AND, OR, NOT
+15. SUMIF, SUMIFS
+16. COUNTIF, COUNTIFS
+17. AVERAGEIF, AVERAGEIFS
+18. VLOOKUP & HLOOKUP
+19. INDEX & MATCH (the VLOOKUP replacement)
+20. IFERROR, IFNA
+21. TEXT, LEFT, RIGHT, MID, LEN, TRIM, CONCATENATE / AMPERSAND (&)
+22. UPPER, LOWER, PROPER, SUBSTITUTE, FIND
+23. DATE, TODAY, NOW, YEAR, MONTH, DAY, DATEDIF, NETWORKDAYS
+24. ROUND, ROUNDUP, ROUNDDOWN, INT, MOD
+
+**Data Management**
+25. Tables (Insert Table, structured references)
+26. Advanced Filter
+27. Remove Duplicates
+28. Data Validation (dropdown lists, input rules)
+29. Text to Columns
+30. Flash Fill
+
+---
+
+**INTERMEDIATE-ADVANCED — Analysis Tools**
+
+**Pivot Tables** *(most critical for analysts)*
+31. Creating Pivot Tables
+32. Row, Column, Value, Filter fields
+33. Grouping dates (by month, quarter, year)
+34. Calculated fields & calculated items
+35. Pivot Table formatting & layout
+36. Slicers & Timelines
+37. Pivot Charts
+
+**Charts & Visualization**
+38. Bar, Column, Line, Pie charts
+39. Combo charts
+40. Scatter plots & Bubble charts
+41. Sparklines
+42. Dynamic chart titles using cell references
+43. Chart formatting best practices for reporting
+
+**Conditional Formatting**
+44. Highlight rules (greater than, duplicate values, etc.)
+45. Color scales & Data bars
+46. Icon sets
+47. Formula-based conditional formatting
+
+---
+
+**ADVANCED LEVEL — Power Analyst Toolkit**
+
+**Advanced Formulas**
+48. XLOOKUP (modern replacement for VLOOKUP)
+49. XMATCH
+50. Dynamic arrays — FILTER, SORT, SORTBY, UNIQUE
+51. SEQUENCE, RANDARRAY
+52. TEXTSPLIT, TEXTJOIN, TEXTBEFORE, TEXTAFTER
+53. LET function (define variables in formulas)
+54. LAMBDA function (create custom functions)
+55. Array formulas (CTRL+SHIFT+ENTER style)
+
+**What-If Analysis**
+56. Goal Seek
+57. Scenario Manager
+58. Data Tables (one-variable & two-variable)
+
+**Statistical Analysis**
+59. STDEV, VAR, MEDIAN, MODE
+60. PERCENTILE, QUARTILE, RANK
+61. CORREL (correlation between variables)
+62. FORECAST, TREND, GROWTH
+63. Descriptive Statistics using Data Analysis Toolpak
+64. Histogram, Regression, Moving Average (Toolpak)
+
+**Power Query (Get & Transform)**
+65. Connecting to data sources (CSV, Excel, databases)
+66. Removing & transforming columns
+67. Merging & appending queries
+68. Unpivoting data (wide to long format)
+69. Custom columns & conditional columns
+70. Data type conversion
+71. Grouping & aggregating data
+72. Refreshing & automating data loads
+
+**Power Pivot & Data Modeling**
+73. Enabling Power Pivot
+74. Importing multiple tables
+75. Creating relationships between tables
+76. DAX basics — CALCULATE, SUM, RELATED, DIVIDE
+77. Building KPI dashboards from data models
+
+---
+
+**PROFESSIONAL LEVEL — Dashboards & Automation**
+
+**Dashboard Building**
+78. Designing analyst dashboards (layout principles)
+79. Linking charts & Pivot Tables with slicers
+80. Dynamic named ranges
+81. OFFSET & INDIRECT for dynamic references
+82. Camera tool for dashboard design
+83. Protecting sheets & workbooks
+
+**Macros & VBA Basics**
+84. Recording macros
+85. Running & editing macros
+86. VBA Editor basics (Sub, variables, loops)
+87. Automating repetitive tasks (formatting, copying data)
+88. Creating simple user forms
+
+---
+
+**Recommended Learning Order**
+
+Start with topics 1–10 → build formulas 11–24 → master Pivot Tables (31–37) → learn Power Query (65–72) → then tackle advanced formulas and dashboards.
+
+Power Query and Pivot Tables alone will handle 70% of a data analyst's daily Excel work.
